@@ -1,0 +1,32 @@
+{
+  "resumeTitle": {
+    "title": "asdf의 자기소개서, 포트폴리오"
+  },
+  "information": {
+    "name": "asdf",
+    "contact": [
+      {
+        "id": 0,
+        "name": "Email",
+        "href": "sdfasdfas",
+        "isEmail": true
+      },
+      {
+        "id": 1,
+        "name": "Github",
+        "href": "제작 중"
+      },
+      {
+        "id": 2,
+        "name": "Blog",
+        "href": "제작 중"
+      }
+    ],
+    "additional_info": "추가 정보는 public/markdown에서 편집하세요 😊"
+  },
+  "workExperience": [],
+  "project": [],
+  "activity": [],
+  "education": [],
+  "certificate": []
+}
